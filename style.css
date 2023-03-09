@@ -1,0 +1,49 @@
+body {
+    background-color: #202123;
+    color: #D6D6D6;
+    font-family: Verdana, sans-serif;
+  }
+  
+  h3 {
+    font-size: 0.7em;
+    font-weight: lighter;
+    color: #dbdbdb;
+    padding: 0%;
+    /* indent text like a blockquote */
+    margin-left: 1.6em;
+  }
+
+  .content_title {
+    font-size: 1.0em;
+    font-weight: bold;
+    color: #dbdbdb;
+    padding: 0%;
+    background-color: #27282A;
+    padding-left: 1em;
+  }
+  
+  .content {
+    font-style: italic;
+    color: #B3B3B3;
+    background-color: #343541;
+    padding: 0%;
+  }
+  
+  a {
+    color: #C3C3C3;
+  }
+  
+  p {
+    color: #E1E1E1;
+    padding: 0%;
+    font-size: 0.9em;
+  }
+  
+  em {
+    color: #F0F0F0;
+  }
+  
+  strong {
+    color: #FEFEFE;
+  }
+  
